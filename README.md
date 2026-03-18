@@ -1,3 +1,10 @@
+hard and easy were swapped, changing difficulty didnt work on left side
+
+
+
+
+
+
 # 🎮 Game Glitch Investigator: The Impossible Guesser
 
 ## 🚨 The Situation
